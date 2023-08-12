@@ -4,10 +4,10 @@ This repository provides a set of Python scripts that make use of the MNIST data
 
 **Table of Contents**
 
-1. [Scripts Overview](#scripts-overview)
-2. [Dependencies](#dependencies)
-3. [Getting Started](#getting-started)
-4. [Usage](#usage)
+1. [Scripts Overview](https://github.com/ResponsibleAILab/fraction-generator#scripts-overview)
+2. [Dependencies](https://github.com/ResponsibleAILab/fraction-generator#dependencies)
+3. [Getting Started](https://github.com/ResponsibleAILab/fraction-generator#getting-started)
+4. [Usage](https://github.com/ResponsibleAILab/fraction-generator#usage)
 
 **Scripts Overview**
 
