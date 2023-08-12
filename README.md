@@ -1,15 +1,15 @@
- **MNIST Fraction Generation**
+ # MNIST Fraction Generation
 
 This repository provides a set of Python scripts that make use of the MNIST dataset to create and manipulate fractions represented by the dataset's digits.
 
-**Table of Contents**
+## Table of Contents
 
 1. [Scripts Overview](https://github.com/ResponsibleAILab/fraction-generator#scripts-overview)
 2. [Dependencies](https://github.com/ResponsibleAILab/fraction-generator#dependencies)
 3. [Getting Started](https://github.com/ResponsibleAILab/fraction-generator#getting-started)
 4. [Usage](https://github.com/ResponsibleAILab/fraction-generator#usage)
 
-# Scripts Overview
+## Scripts Overview
 
 **1.**  **1\_determine\_bbox\_4\_each\_digit\_in\_mnist.py**
 
@@ -31,7 +31,7 @@ Constructs a complex fraction with a single-digit numerator (a) and a two-digit 
 
 Creates a complex fraction where both the numerator and the denominator have two digits (ab/ab) using the MNIST digits.
 
-**Dependencies**
+## Dependencies
 
 - Python 3.x
 - Libraries:
@@ -39,7 +39,7 @@ Creates a complex fraction where both the numerator and the denominator have two
   - Matplotlib
   - (any other libraries required by the code, e.g., TensorFlow or PyTorch if using them for MNIST)
 
-**Getting Started**
+## Getting Started
 
 1. Clone this repository:
 ```
@@ -51,7 +51,7 @@ git clone https://github.com/ResponsibleAILab/fraction-generator
 pip install numpy matplotlib(other libraries)
 ```
 
-**Usage**
+## Usage
 
 To use any of the scripts, navigate to the script directory and run them as follows:
 
