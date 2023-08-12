@@ -9,7 +9,7 @@ This repository provides a set of Python scripts that make use of the MNIST data
 3. [Getting Started](https://github.com/ResponsibleAILab/fraction-generator#getting-started)
 4. [Usage](https://github.com/ResponsibleAILab/fraction-generator#usage)
 
-**Scripts Overview**
+# Scripts Overview
 
 **1.**  **1\_determine\_bbox\_4\_each\_digit\_in\_mnist.py**
 
